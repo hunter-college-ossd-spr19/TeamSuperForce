@@ -1,3 +1,3 @@
-Undid-Iridum  - Maintainer
-gsvetleen  - Contributor
-Gutierrezjdr  - Contributor
+Undid-Iridum  - Maintainer  
+gsvetleen  - Contributor  
+Gutierrezjdr  - Contributor  
