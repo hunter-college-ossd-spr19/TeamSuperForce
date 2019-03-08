@@ -1,0 +1,15 @@
+Undid-Iridium:
+C++/C
+Python
+SQL
+MIPS
+
+Gutierrezjdr:
+C#
+Javascript
+
+gsvetleen:
+Java
+Java 
+Go
+
